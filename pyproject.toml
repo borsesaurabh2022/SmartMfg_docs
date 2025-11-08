@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+authors = [{name = "Saurabh Borse & Robotics Collective", email = "saurabh.borse@alumni.fh-aachen.de"}]
 dynamic = ["version", "description"]
